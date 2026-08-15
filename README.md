@@ -13,11 +13,3 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,ts,cs,java,firebase,gcp,elasticsearch" alt="Flutter, Dart, Swift, Kotlin, TypeScript, C#, Java, Firebase, GCP, Elasticsearch" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random dev quote" />
-</picture>
-
----
-
-公開リポジトリは古い実験と fork が中心で、いま動かしているものは非公開です。作っているものは [koggy.dev](https://koggy.dev) に置いています。
