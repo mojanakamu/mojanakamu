@@ -52,7 +52,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mojanakamu&custom_title=Contribution%20Activity&bg_color=0d1117&color=D2662F&line=D2662F&point=A94A1B&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mojanakamu&custom_title=Contribution%20Activity&bg_color=0d1117&color=D2662F&line=D2662F&point=A94A1B&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mojanakamu&custom_title=Contribution%20Activity&bg_color=FBF8F3&color=A94A1B&line=D2662F&point=A94A1B&area=true&hide_border=true" alt="activity graph" />
+  </picture>
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -89,7 +92,10 @@
 ## 💭 **Random Dev Quote**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote" />
+  </picture>
 </div>
 
 <div align="center">
