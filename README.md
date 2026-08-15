@@ -2,14 +2,14 @@
 
 ---
 
-### Suijee — みんなでごはんをまわすアプリ
+### Suijee
 
-「今日なに食べる？」から買い物・調理・記録までを一本のループに。うちの味を家族・パートナー・仲間と共有して、少しずつ育てていくための道具です。設計から運用まで一人で回しています。
+「今日なに食べる？」から買い物・調理・記録までを一本のループに。個人開発中。
 
 <a href="https://apps.apple.com/jp/app/suijee/id6756541471"><img src="https://img.shields.io/badge/App%20Store-1E1A17?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.chefmemo.chef_memo"><img src="https://img.shields.io/badge/Google%20Play-D2662F?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 
-### つかうもの
+### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,ts,cs,java,firebase,gcp,elasticsearch" alt="Flutter, Dart, Swift, Kotlin, TypeScript, C#, Java, Firebase, GCP, Elasticsearch" />
 
