@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1800&color=D2662F&width=720&height=30&lines=Hi+there!+I'm+Kouki+%F0%9F%91%8B;Solo+app+developer+%F0%9F%9A%80;Building+Suijee%2C+a+cooking+app+%F0%9F%8D%9A;Flutter+%C3%97+Firebase%2C+design+to+ops+%E2%9C%A8;koggy+%3D+kouki+%2B+kooky+%2B+corgi+%F0%9F%90%B6" alt="Hi there! I'm Kouki — solo app developer, building Suijee" />
 
----
-
 ### Suijee
 
 「今日なに食べる？」から買い物・調理・記録までを一本のループに。個人開発中。
