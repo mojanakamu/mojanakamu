@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=1400&color=D2662F&center=true&vCenter=true&width=440&height=60&lines=koggy;kouki;kooky;corgi" alt="koggy — kouki / kooky / corgi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=D2662F&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Kouki+%F0%9F%91%8B;Solo+app+developer+%F0%9F%9A%80;Building+Suijee%2C+a+cooking+app+for+households+%F0%9F%8D%9A;Flutter+%C3%97+Firebase%2C+from+design+to+ops+%E2%9C%A8;koggy+%3D+kouki+%2B+kooky+%2B+corgi+%F0%9F%90%B6" alt="Hi there! I'm Kouki — solo app developer, building Suijee" />
 
 個人でアプリを作っています → **[koggy.dev](https://koggy.dev)**
 
