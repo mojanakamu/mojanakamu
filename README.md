@@ -19,10 +19,6 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,ts,cs,java,firebase,gcp,elasticsearch" alt="Flutter, Dart, Swift, Kotlin, TypeScript, C#, Java, Firebase, GCP, Elasticsearch" />
 
-### うごき
-
-<img src="https://streak-stats.demolab.com/?user=mojanakamu&theme=transparent&hide_border=true&border_radius=8&date_format=Y/n/j" alt="contribution streak" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random dev quote" />
