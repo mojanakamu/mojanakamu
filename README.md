@@ -2,12 +2,12 @@
 
 ### Suijee
 
-「今日なに食べる？」から買い物・調理・記録までを一本のループに。個人開発中。
+あの日のごはんを、また作れるように。ごはんの記録とレシピのアプリを、個人で作っています。
 
-<!-- Apple / Google のロゴは公式バッジ以外に組み込めない（両社のブランドガイドライン）ため、
-     ロゴなしのテキストバッジにする -->
-<a href="https://apps.apple.com/jp/app/suijee/id6756541471"><img src="https://img.shields.io/badge/App%20Store-1E1A17?style=flat-square" alt="App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.chefmemo.chef_memo"><img src="https://img.shields.io/badge/Google%20Play-D2662F?style=flat-square" alt="Google Play" /></a>
+<!-- 各社の公式バッジ（日本語版。加工しない）。画像は suijee.koggy.dev に置いたものを使う。
+     見えている高さを揃えるため、上下に透明の余白を含む Google Play の画像は大きめに置く -->
+<a href="https://apps.apple.com/jp/app/suijee/id6756541471"><img src="https://suijee.koggy.dev/badges/app-store-badge-ja.svg" height="40" alt="App Store からダウンロード" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.chefmemo.chef_memo"><img src="https://suijee.koggy.dev/badges/google-play-badge-ja.png" height="52" alt="Google Play で手に入れよう" /></a>
 
 ### Tech Stack
 
